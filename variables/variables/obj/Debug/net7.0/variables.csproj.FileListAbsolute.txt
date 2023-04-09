@@ -1,0 +1,15 @@
+/Users/adam/Desktop/CSharp/variables/variables/bin/Debug/net7.0/variables
+/Users/adam/Desktop/CSharp/variables/variables/bin/Debug/net7.0/variables.deps.json
+/Users/adam/Desktop/CSharp/variables/variables/bin/Debug/net7.0/variables.runtimeconfig.json
+/Users/adam/Desktop/CSharp/variables/variables/bin/Debug/net7.0/variables.dll
+/Users/adam/Desktop/CSharp/variables/variables/bin/Debug/net7.0/variables.pdb
+/Users/adam/Desktop/CSharp/variables/variables/obj/Debug/net7.0/variables.csproj.AssemblyReference.cache
+/Users/adam/Desktop/CSharp/variables/variables/obj/Debug/net7.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Desktop/CSharp/variables/variables/obj/Debug/net7.0/variables.AssemblyInfoInputs.cache
+/Users/adam/Desktop/CSharp/variables/variables/obj/Debug/net7.0/variables.AssemblyInfo.cs
+/Users/adam/Desktop/CSharp/variables/variables/obj/Debug/net7.0/variables.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/CSharp/variables/variables/obj/Debug/net7.0/variables.dll
+/Users/adam/Desktop/CSharp/variables/variables/obj/Debug/net7.0/refint/variables.dll
+/Users/adam/Desktop/CSharp/variables/variables/obj/Debug/net7.0/variables.pdb
+/Users/adam/Desktop/CSharp/variables/variables/obj/Debug/net7.0/variables.genruntimeconfig.cache
+/Users/adam/Desktop/CSharp/variables/variables/obj/Debug/net7.0/ref/variables.dll
